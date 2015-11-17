@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Node>
+     <Division>
+          <Division>
+               <int>10</int>
+               <int>2</int>
+          </Division>
+          <Addition>
+               <int>5</int>
+               <Subtraction>
+                    <int>2</int>
+                    <int>1</int>
+               </Subtraction>
+          </Addition>
+     </Division>
+</Node>
+
